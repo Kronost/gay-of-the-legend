@@ -8,7 +8,7 @@
 
 ## 웹툰링크
 
-[![](https://github.com/Kronost/gay-of-the-legend/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)](http://comic.naver.com/challenge/list.nhn?titleId=696229&no=1)
+클릭[![](https://github.com/Kronost/gay-of-the-legend/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)](http://comic.naver.com/challenge/list.nhn?titleId=696229&no=1)
 
 ## 원작
 
