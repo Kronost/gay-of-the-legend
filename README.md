@@ -12,4 +12,4 @@
 
 ## 원작
 
-[클릭!!](https://docs.google.com/document/d/1yx9yP9z0HDBh3S_v2-sEApF_e_Ixqpkrhp28NHXDEiY/edit)
+[![](https://github.com/Kronost/gay-of-the-legend/blob/master/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.jpg?raw=true)](https://docs.google.com/document/d/1yx9yP9z0HDBh3S_v2-sEApF_e_Ixqpkrhp28NHXDEiY/edit)
