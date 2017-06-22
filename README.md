@@ -8,8 +8,8 @@
 
 ## 웹툰링크
 
-![클릭](http://comic.naver.com/challenge/list.nhn?titleId=696229&no=1)
+[클릭](http://comic.naver.com/challenge/list.nhn?titleId=696229&no=1)
 
 ## 원작
 
-![클릭!!](https://docs.google.com/document/d/1yx9yP9z0HDBh3S_v2-sEApF_e_Ixqpkrhp28NHXDEiY/edit)
+[클릭!!](https://docs.google.com/document/d/1yx9yP9z0HDBh3S_v2-sEApF_e_Ixqpkrhp28NHXDEiY/edit)
